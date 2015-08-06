@@ -1,16 +1,13 @@
 {
-	"name": "typeScriptSample",
+	"name": "ExcelTabConverter",
 	"version": "1.0.0",
-	"description": "typeScriptSample",
+	"description": "ExcelTabConverter",
 	"author": "kazenetu",
 	"url": "",
 	"license": "MIT License",
-	"keywords": "gulp",
+	"keywords": "Excel",
 	"devDependencies":{
 		"gulp": "*",
-		"gulp-typescript": "*",
-		"gulp-concat": "*",
-		"run-sequence": "*",
-		"merge2": "*"
+		"gulp-typescript": "*"
 	}
 }
