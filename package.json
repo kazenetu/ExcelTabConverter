@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "ExcelTabConverter",
 	"author": "kazenetu",
-	"url": "",
+	"url": "https://github.com/kazenetu/ExcelTabConverter",
 	"license": "MIT License",
 	"keywords": "Excel",
 	"devDependencies":{
