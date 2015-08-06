@@ -1,0 +1,2 @@
+# ExcelTabConverter
+Excelの複数セルのコピペ時の余計なタブを削除するhtml+JavaScriptなツール
